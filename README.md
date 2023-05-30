@@ -22,3 +22,6 @@ Login
 HOME PAGE
 
 ![Screenshot (32)](https://github.com/Cautious-iddrisu/Farm-Management-System/assets/90367360/c714106c-607c-49c5-9687-a53ed0ff1a3a)
+
+
+![Screenshot (33)](https://github.com/Cautious-iddrisu/Farm-Management-System/assets/90367360/525551f5-d19a-4d97-82d3-20413e2a5053)
