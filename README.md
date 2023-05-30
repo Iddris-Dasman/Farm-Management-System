@@ -25,3 +25,6 @@ HOME PAGE
 
 
 ![Screenshot (33)](https://github.com/Cautious-iddrisu/Farm-Management-System/assets/90367360/525551f5-d19a-4d97-82d3-20413e2a5053)
+
+
+![Screenshot (34)](https://github.com/Cautious-iddrisu/Farm-Management-System/assets/90367360/b56b4761-3b9a-4506-85e4-dfc2699391b9)
