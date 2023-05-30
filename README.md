@@ -14,3 +14,7 @@ How to run
 *************
 Username : admin
 Password : admin
+
+
+Login
+![Screenshot (38)](https://github.com/Cautious-iddrisu/Farm-Management-System/assets/90367360/f413a423-4415-4f27-9b2f-f60d87e24e04)
