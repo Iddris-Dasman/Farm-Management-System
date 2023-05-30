@@ -18,3 +18,7 @@ Password : admin
 
 Login
 ![Screenshot (38)](https://github.com/Cautious-iddrisu/Farm-Management-System/assets/90367360/f413a423-4415-4f27-9b2f-f60d87e24e04)
+
+HOME PAGE
+
+![Screenshot (32)](https://github.com/Cautious-iddrisu/Farm-Management-System/assets/90367360/c714106c-607c-49c5-9687-a53ed0ff1a3a)
